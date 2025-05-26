@@ -1,5 +1,4 @@
 # House-of-pico
-
 ---
 
 🌐 Web Developer Intern | House of Pico
@@ -26,5 +25,6 @@ Key Contributions:
 ✅ Technical Maintenance: Managed ongoing website updates and troubleshooting to maintain optimal functionality.
 
 ---
+
 This experience strengthened my skills in web development, problem-solving, and collaborating with teams to deliver high-quality digital solutions.
 ---
