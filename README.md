@@ -1,6 +1,11 @@
 # House-of-pico
+
 🌐 Web Developer Intern | House of Pico
+
+---
+
 During my internship at House of Pico, I contributed to the development and maintenance of a dynamic e-commerce website for a clothing brand. My role focused on enhancing user experience, optimizing website performance, and ensuring seamless functionality.
+
 ---
 Key Contributions:
 ✅ Website Development & Management: Played a pivotal role in the creation and management of the company’s website, ensuring a visually appealing and user-friendly interface.
