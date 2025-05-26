@@ -1,6 +1,3 @@
-# House-of-pico
----
-
 🌐 Web Developer Intern | House of Pico
 ---
 
@@ -10,7 +7,7 @@ During my internship at House of Pico, I contributed to the development and main
 
 Key Contributions:
 
-✅  Optimized website performance by reducing image sizes and implementing lazy loading, decreasing page load times by 40% and      improving overall user experience on mobile devices.
+✅  Optimized website performance by reducing image sizes and implementing lazy loading, decreasing page load times by 40% and <br>improving overall user experience on mobile devices.
 
 ✅ Directed the creation of a clothing company website, implementing SEO best practices that improved organic traffic by 150% within the first two months of launch.
 
