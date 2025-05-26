@@ -5,7 +5,7 @@ During my internship at House of Pico, I contributed to the development and main
 
 ---
 
-Key Contributions:
+🖥️ Key Contributions:
 ---
 
 ✅  Optimized website performance by reducing image sizes and implementing lazy loading, decreasing page load times by 40% and improving overall user experience on mobile devices.
@@ -24,5 +24,6 @@ Key Contributions:
 
 ---
 
-This experience strengthened my skills in web development, problem-solving, and collaborating with teams to deliver high-quality digital solutions.
+🚀 This experience strengthened my skills in web development, problem-solving, and collaborating with teams to deliver high-quality digital solutions.
+---
 ---
