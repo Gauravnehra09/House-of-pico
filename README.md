@@ -10,7 +10,7 @@ During my internship at House of Pico, I contributed to the development and main
 
 ✅  Optimized website performance by reducing image sizes and implementing lazy loading, decreasing page load times by 40% and improving overall user experience on mobile devices.
 
-✅ Directed the creation of a clothing company website, implementing SEO best practices that improved organic traffic by 150% within the first two months of launch.
+✅ Directed the creation of a clothing company website, implementing SEO best practices that improved organic traffic by 60% within the first two months of launch.
 
 ✅ Revitalized the website by implementing bi-weekly content updates and eliminating 404 errors , leading to a 35% increase in user engagement and a 15% reduction in bounce rate.
 
